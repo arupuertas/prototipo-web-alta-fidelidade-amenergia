@@ -1,8 +1,4 @@
-# Creator
-
-* Aruã Puertas Costa
-
-## Protótipo web de alta fidelidade AMEnergia.
+# Protótipo web de alta fidelidade AMEnergia.
  
  High fidelity prototype of the AMEnergia company website, using UX / UI techniques. 
  The prototype was developed using the Axure prototyping software.
